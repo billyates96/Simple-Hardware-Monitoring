@@ -1,0 +1,2 @@
+# Simple-Hardware-Monitoring
+public repo for my c++ 2 final project
